@@ -1,4 +1,4 @@
-Attribute VB_Name = "Prueba"
+Attribute VB_Name = "Intro"
 Sub insertar()
 
 'Insertar valores en celdas

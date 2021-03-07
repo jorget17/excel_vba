@@ -6,7 +6,7 @@ Attribute VB_Name = "Matrices"
 
 Option Explicit
 
-Sub declaracion_Matrices()
+Sub declaracion_matrices()
 
 Dim rango1(4) As Integer
 
